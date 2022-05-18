@@ -146,6 +146,7 @@ attendant
 attentive
 attractive
 atypical
+audacious
 august
 auspicious
 authentic
@@ -168,6 +169,7 @@ bald
 balding
 banging
 baronial
+bashful
 beaming
 beatific
 beauteous
@@ -181,6 +183,7 @@ begrudging
 behaved
 believable
 believer
+bellicose
 belligerent
 beloved
 benedictory
@@ -197,6 +200,7 @@ bewildering
 bewitching
 big
 biggest
+bighearted
 bijou
 bilingual
 blameless
@@ -217,7 +221,9 @@ bodacious
 boisterous
 bold
 bonny
+bony
 bonzer
+boorish
 boring
 boss
 bossy
@@ -253,6 +259,7 @@ businesslike
 bustling
 busy
 buxom
+calculating
 callous
 calm
 calmative
@@ -307,6 +314,7 @@ childlike
 chilled
 chipper
 chirpy
+chiseled
 chivalrous
 choice
 chosen
@@ -458,6 +466,7 @@ courteous
 courtly
 coveted
 cowardly
+coy
 cozy
 crabby
 crackerjack
@@ -469,6 +478,7 @@ creamy
 creative
 credible
 creditable
+creepy
 crisp
 critical
 cropped
@@ -570,6 +580,8 @@ discontented
 discreet
 discrete
 discriminating
+disdainful
+disheveled
 dishonest
 disloyal
 disobedient
@@ -601,6 +613,7 @@ doting
 doubtless
 doughty
 dowdy
+drab
 dramatic
 dreaded
 dreamy
@@ -616,6 +629,7 @@ dull
 durable
 dusky
 dutiful
+dwarfish
 dyed
 dynamic
 dynamite
@@ -640,6 +654,7 @@ educational
 effective
 effectual
 effervescent
+effete
 efficient
 effortless
 effusive
@@ -811,6 +826,7 @@ felicitous
 ferocious
 fertile
 fervent
+fervid
 festal
 festive
 fetching
@@ -868,6 +884,7 @@ fragrant
 frank
 fraternal
 free
+freewheeling
 fresh
 friend
 friendly
@@ -891,6 +908,9 @@ galore
 game
 gamesome
 gangly
+garrulous
+gauche
+gaunt
 gelled
 generous
 genial
@@ -996,6 +1016,7 @@ heartful
 heartwarming
 hearty
 heavenly
+heavyset
 heedful
 hegemonic
 helpful
@@ -1025,6 +1046,7 @@ hortative
 hospitable
 hostile
 hot
+hotheaded
 hotshot
 huggable
 huggy
@@ -1071,6 +1093,7 @@ impatient
 impeccable
 impeccant
 impenetrable
+impertinent
 imperturbable
 impervious
 impetuous
@@ -1206,6 +1229,7 @@ jewelled
 jiggish
 jigjog
 jimp
+jittery
 jobbing
 jocose
 jocoserious
@@ -1274,6 +1298,7 @@ lepid
 lethargic
 lettered
 level
+levelheaded
 liberal
 liberated
 liberating
@@ -1294,11 +1319,13 @@ lithesome
 live
 lively
 living
+loathsome
 local
 logical
 long
 lordly
 loud
+loutish
 lovable
 loveable
 loved
@@ -1362,6 +1389,7 @@ melancholic
 mellow
 melodious
 memorable
+mendacious
 merciful
 mercurial
 meritable
@@ -1379,12 +1407,15 @@ mild
 minded
 mindful
 minikin
+minimalistic
 ministerial
 mint
 miraculous
 mirthful
+misanthropic
 mischievous
 miserable
+miserly
 mitigative
 mitigatory
 model
@@ -1422,6 +1453,7 @@ mutual
 mysterious
 mystical
 naive
+narcissistic
 narrowminded
 nasty
 national
@@ -1468,15 +1500,18 @@ numb
 nurturing
 nutrimental
 nutritious
+oafish
 obedient
 obese
 objective
 obliging
 obnoxious
+obsequious
 observant
 obsessive
 obstinate
 obtainable
+odious
 oecumenical
 official
 ok
@@ -1490,6 +1525,7 @@ onward
 open
 openminded
 operative
+opinionated
 opportune
 opportunistic
 optimal
@@ -1540,6 +1576,7 @@ paunchy
 peaceable
 peaceful
 peachy
+peculiar
 peerless
 peevish
 penetrating
@@ -1689,6 +1726,7 @@ protective
 proud
 provocative
 prudent
+pugnacious
 puissant
 pukka
 pulchritudinous
@@ -1697,6 +1735,7 @@ punctilious
 punctual
 pure
 purposeful
+pusillanimous
 quaint
 qualified
 qualitative
@@ -1777,6 +1816,7 @@ restful
 restless
 restorative
 retentive
+reticent
 revealing
 revered
 reverent
@@ -1798,6 +1838,7 @@ romantic
 rooted
 rosy
 rotten
+rotund
 rough
 round
 rounded
@@ -1805,11 +1846,13 @@ rousing
 rude
 rugged
 ruling
+rumpled
 rural
 saccharine
 sacred
 sacrosanct
 sad
+sadistic
 safe
 sagacious
 sage
@@ -1827,10 +1870,12 @@ sapid
 sapient
 sapoforic
 sarcastic
+sardonic
 sassy
 satisfactory
 satisfied
 satisfying
+saturnine
 saucy
 saving
 savory
@@ -1840,6 +1885,7 @@ scenic
 scholarly
 scientific
 scintillating
+scruffy
 scrumptious
 scrupulous
 seamless
@@ -1869,6 +1915,7 @@ service
 servile
 set
 settled
+sexy
 shapely
 sharing
 sharp
@@ -1884,6 +1931,7 @@ short
 showy
 shrewd
 shy
+sickly
 sightly
 significant
 silent
@@ -1957,6 +2005,7 @@ spangly
 spanking
 sparkling
 sparkly
+spartan
 speaking
 special
 spectacular
@@ -1984,6 +2033,7 @@ spruce
 spry
 spunky
 square
+squat
 stable
 stacked
 staid
@@ -2079,12 +2129,14 @@ suspicious
 sustained
 svelte
 swank
+swanky
 swashbuckling
 sweet
 swell
 swift
 swishing
 sybaritic
+sylphlike
 sylvan
 symmetrical
 sympathetic
@@ -2111,6 +2163,7 @@ tender
 terrific
 testimonial
 testy
+tetchy
 thankful
 thankworthy
 therapeutic
@@ -2157,10 +2210,12 @@ transpicuous
 traveled
 travelled
 tremendous
+trendy
 tretis
 trim
 triumphant
 troublesome
+truculent
 true
 trustful
 trusting
@@ -2206,6 +2261,7 @@ unconventional
 uncooperative
 uncorrupted
 uncritical
+unctuous
 undamaged
 undauntable
 undaunted
@@ -2323,6 +2379,7 @@ venerable
 venturesome
 venust
 veracious
+verbose
 verdurous
 veridical
 verified
@@ -2334,6 +2391,7 @@ veteran
 viable
 vibrant
 vibratile
+vicious
 victor
 victorious
 vigilant
@@ -2349,6 +2407,7 @@ volant
 volcanic
 volitional
 voluptuous
+voracious
 vulgar
 vulnerable
 vulnerary
@@ -2374,16 +2433,19 @@ whole
 wholehearted
 wholesome
 whopping
+wicked
 wild
 wilful
 willed
 willing
+willowy
 wily
 winded
 winged
 winning
 winsome
 wired
+wiry
 wise
 witty
 wizard
