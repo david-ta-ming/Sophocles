@@ -2,6 +2,13 @@
 
 A code-name generator.
 
+## Build
+
+```bash
+cd Sophocles
+mvn clean install
+```
+
 ## Examples usage
 
 ```bash
