@@ -459,7 +459,6 @@ elaenia
 eland
 elephant
 elk
-emerald
 emu
 emutail
 eremomela
@@ -1262,7 +1261,6 @@ schnoodle
 scimitarbill
 scorpion
 scoter
-screamer
 scrubbird
 scrubfowl
 scrubtit
