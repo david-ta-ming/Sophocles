@@ -11,8 +11,6 @@ import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.util.SortedSet;
 import java.util.TreeSet;
-import static net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE;
-import static net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE;
 
 /**
  *
@@ -20,17 +18,18 @@ import static net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE;
  */
 public class WordLists {
 
-    public static final int MIN_LENGTH = 1;
+    /**
+     * The minimum length (inclusive) of any word from the lists.
+     */
+    public static final int MIN_WORD_LENGTH = 1;
 
-    public static void main(String[] args) throws IOException {
-        final SortedSet<String> adjectives = WordLists.load(ADJECTIVES_RESOURCE);
-        final SortedSet<String> animals = WordLists.load(ANIMALS_RESOURCE);
-        
-        for(final String word : animals) {
-            System.out.println(word);
-        }
-    }
-
+    /**
+     * Load and return a sorted set containing words in the specified resource.
+     *
+     * @param resource
+     * @return
+     * @throws IOException
+     */
     public static SortedSet<String> load(String resource) throws IOException {
 
         final SortedSet<String> words = new TreeSet<>();
@@ -39,12 +38,27 @@ public class WordLists {
             String line;
             while ((line = reader.readLine()) != null) {
                 line = line.trim().toLowerCase();
-                if (!(line.length() <= MIN_LENGTH || line.matches(".*[^a-z].*"))) {
+                if (!(line.length() <= MIN_WORD_LENGTH || line.matches(".*[^a-z].*"))) {
                     words.add(line);
                 }
             }
         }
 
         return words;
+    }
+
+    /**
+     * Print out the words contained in the specified resource.
+     *
+     * @param resource
+     * @throws IOException
+     */
+    public static void print(String resource) throws IOException {
+
+        final SortedSet<String> words = WordLists.load(resource);
+
+        for (final String word : words) {
+            System.out.println(word);
+        }
     }
 }

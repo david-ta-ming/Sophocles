@@ -21,66 +21,84 @@ import java.util.regex.Pattern;
  */
 public class Main {
 
+    /**
+     * Location of the adjectives list resource file
+     */
     public static final String ADJECTIVES_RESOURCE = "adjectives.txt";
+
+    /**
+     * Location of the animals list resource file
+     */
     public static final String ANIMALS_RESOURCE = "animals.txt";
     //private static final Pattern MATCH_PATTERN = Pattern.compile("^([^aeiouy]+[aeiouy]+|[aeiouy]+[^aeiouy])");
     private static final Pattern MATCH_PATTERN = Pattern.compile("(?i)^(ph|sh|ch|qu|wh|th|kn|[aeiouy]+|[a-z])");
-    public static final int MIN_LENGTH = 1;
 
-    public static void main(String[] args) throws Exception {
+    /**
+     * The length of the output of code names.
+     */
+    public static final int OUTPUT_LIST_LENGTH = 50;
+    private static final org.apache.logging.log4j.Logger LOGGER = org.apache.logging.log4j.LogManager.getLogger(Main.class.getName());
 
-        final Set<String> names = new HashSet<>();
+    /**
+     * Prints out a random list of generated code names.
+     *
+     * @param args
+     */
+    @SuppressWarnings("UseSpecificCatch")
+    public static void main(String[] args) {
 
-        final SortedSet<String> adjectives = WordLists.load(ADJECTIVES_RESOURCE);
-        final SortedSet<String> animals = WordLists.load(ANIMALS_RESOURCE);
+        try {
 
-        for (final String adjective : adjectives) {
-            final String adjBegin;
-            {
-                final Matcher matcher = MATCH_PATTERN.matcher(adjective);
-                if (matcher.find()) {
-                    adjBegin = matcher.group();
-                } else {
-                    adjBegin = adjective;
-                }
-            }
-            for (final String animal : animals) {
-                final String animalBegin;
+            final Set<String> names = new HashSet<>();
+
+            final SortedSet<String> adjectives = WordLists.load(ADJECTIVES_RESOURCE);
+            final SortedSet<String> animals = WordLists.load(ANIMALS_RESOURCE);
+
+            for (final String adjective : adjectives) {
+                final String adjBegin;
                 {
-                    final Matcher matcher = MATCH_PATTERN.matcher(animal);
+                    final Matcher matcher = MATCH_PATTERN.matcher(adjective);
                     if (matcher.find()) {
-                        animalBegin = matcher.group();
+                        adjBegin = matcher.group();
                     } else {
-                        animalBegin = animal;
+                        adjBegin = adjective;
                     }
                 }
+                for (final String animal : animals) {
+                    final String animalBegin;
+                    {
+                        final Matcher matcher = MATCH_PATTERN.matcher(animal);
+                        if (matcher.find()) {
+                            animalBegin = matcher.group();
+                        } else {
+                            animalBegin = animal;
+                        }
+                    }
 
-                if (adjBegin.equals(animalBegin) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
-                    names.add(adjective + ' ' + animal);
+                    if (adjBegin.equals(animalBegin) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
+                        names.add(adjective + ' ' + animal);
+                    }
                 }
             }
+
+            final List<String> namesList = new ArrayList<>();
+            namesList.addAll(names);
+            Collections.shuffle(namesList);
+
+            final Iterator<String> namesIterator = namesList.iterator();
+            for (int i = 0; i < OUTPUT_LIST_LENGTH && namesIterator.hasNext(); i++) {
+                final String name = namesIterator.next();
+                System.out.println(name);
+            }
+
+        } catch (Throwable th) {
+
+            LOGGER.debug(th);
+
+            System.err.println(th.getMessage());
+            System.exit(1);
         }
 
-        final List<String> namesList = new ArrayList<>();
-        namesList.addAll(names);
-        Collections.shuffle(namesList);
-
-        final Iterator<String> namesIterator = namesList.iterator();
-        for (int i = 0; i < 50 && namesIterator.hasNext(); i++) {
-            final String name = namesIterator.next();
-            System.out.println(name);
-        }
-
-//        System.out.println("");
-//        System.out.println(names.size() + " total names");
-//
-//        System.out.println("");
-
-//        for (final String s : adjectives) {
-//            System.out.println(s);
-//        }
-//        for (final String s : animals) {
-//            System.out.println(s);
-//        }
+        System.exit(0);
     }
 }
