@@ -5,6 +5,7 @@
  */
 package net.noisynarwhal.sophocles;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
@@ -49,47 +50,7 @@ public class Main {
 
         try {
 
-            final Set<String> names = new HashSet<>();
-
-            final SortedSet<String> adjectives = WordLists.load(ADJECTIVES_RESOURCE);
-            final SortedSet<String> animals = WordLists.load(ANIMALS_RESOURCE);
-
-            for (final String adjective : adjectives) {
-                final String adjBegin;
-                {
-                    final Matcher matcher = MATCH_PATTERN.matcher(adjective);
-                    if (matcher.find()) {
-                        adjBegin = matcher.group();
-                    } else {
-                        adjBegin = adjective;
-                    }
-                }
-                for (final String animal : animals) {
-                    final String animalBegin;
-                    {
-                        final Matcher matcher = MATCH_PATTERN.matcher(animal);
-                        if (matcher.find()) {
-                            animalBegin = matcher.group();
-                        } else {
-                            animalBegin = animal;
-                        }
-                    }
-
-                    if (adjBegin.equals(animalBegin) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
-                        names.add(adjective + ' ' + animal);
-                    }
-                }
-            }
-
-            final List<String> namesList = new ArrayList<>();
-            namesList.addAll(names);
-            Collections.shuffle(namesList);
-
-            final Iterator<String> namesIterator = namesList.iterator();
-            for (int i = 0; i < OUTPUT_LIST_LENGTH && namesIterator.hasNext(); i++) {
-                final String name = namesIterator.next();
-                System.out.println(name);
-            }
+            Main.run();
 
         } catch (Throwable th) {
 
@@ -100,5 +61,51 @@ public class Main {
         }
 
         System.exit(0);
+    }
+
+    private static void run() throws IOException {
+        
+        final Set<String> names = new HashSet<>();
+
+        final SortedSet<String> adjectives = WordLists.load(ADJECTIVES_RESOURCE);
+        final SortedSet<String> animals = WordLists.load(ANIMALS_RESOURCE);
+
+        for (final String adjective : adjectives) {
+            final String adjBegin;
+            {
+                final Matcher matcher = MATCH_PATTERN.matcher(adjective);
+                if (matcher.find()) {
+                    adjBegin = matcher.group();
+                } else {
+                    adjBegin = adjective;
+                }
+            }
+            for (final String animal : animals) {
+                final String animalBegin;
+                {
+                    final Matcher matcher = MATCH_PATTERN.matcher(animal);
+                    if (matcher.find()) {
+                        animalBegin = matcher.group();
+                    } else {
+                        animalBegin = animal;
+                    }
+                }
+
+                if (adjBegin.equals(animalBegin) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
+                    names.add(adjective + ' ' + animal);
+                }
+            }
+        }
+
+        final List<String> namesList = new ArrayList<>();
+        namesList.addAll(names);
+        Collections.shuffle(namesList);
+
+        final Iterator<String> namesIterator = namesList.iterator();
+        for (int i = 0; i < OUTPUT_LIST_LENGTH && namesIterator.hasNext(); i++) {
+            final String name = namesIterator.next();
+            System.out.println(name);
+        }
+        
     }
 }
