@@ -5,6 +5,7 @@
  */
 package net.noisynarwhal.sophocles;
 
+import static net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE;
 import static net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE;
 import org.junit.After;
 import org.junit.AfterClass;
@@ -42,8 +43,11 @@ public class WordListsTest {
      */
     @Test
     public void testPrint() throws Exception {
-        System.out.println("print animals");
-        WordLists.print(ANIMALS_RESOURCE);
+//        System.out.println("print animals");
+//        WordLists.print(ANIMALS_RESOURCE);
+
+        System.out.println("print adjectives");
+        WordLists.print(ADJECTIVES_RESOURCE);
     }
 
 }
