@@ -5,7 +5,7 @@ A code-name generator.
 ## Build
 
 ```bash
-cd Sophocles
+# Sophocles directory
 mvn clean install
 ```
 
