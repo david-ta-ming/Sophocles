@@ -1353,10 +1353,8 @@ snowcock
 snowfinch
 snowshoe
 softtail
-soldier
 sole
 solitaire
-somali
 songlark
 sora
 sow
@@ -1374,8 +1372,9 @@ spiderling
 spindalis
 spinebill
 spinetail
-spinifexbird
+spinifex
 spinosaurus
+spintail
 sponge
 spoonbill
 sprat

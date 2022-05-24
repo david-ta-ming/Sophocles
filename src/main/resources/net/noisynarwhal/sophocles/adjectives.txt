@@ -1447,7 +1447,7 @@ multifaceted
 munificent
 muscular
 musical
-must
+musty
 mutual
 mysterious
 mystical
@@ -1884,6 +1884,7 @@ scenic
 scholarly
 scientific
 scintillating
+screaming
 scruffy
 scrumptious
 scrupulous
@@ -2087,7 +2088,6 @@ stylish
 suasive
 suave
 sublime
-subscribe
 subservient
 substant
 substantial
@@ -2420,7 +2420,7 @@ wavy
 weak
 wealthy
 weighty
-welcome
+welcoming
 welcomed
 welcoming
 weleful

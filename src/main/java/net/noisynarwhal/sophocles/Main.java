@@ -8,10 +8,7 @@ package net.noisynarwhal.sophocles;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashSet;
-import java.util.Iterator;
 import java.util.List;
-import java.util.Set;
 import java.util.SortedSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -37,7 +34,7 @@ public class Main {
     /**
      * The length of the output of code names.
      */
-    public static final int OUTPUT_LIST_LENGTH = 50;
+    public static final int OUTPUT_LIST_LENGTH = 150;
     private static final org.apache.logging.log4j.Logger LOGGER = org.apache.logging.log4j.LogManager.getLogger(Main.class.getName());
 
     /**
@@ -64,13 +61,14 @@ public class Main {
     }
 
     private static void run() throws IOException {
-        
-        final Set<String> names = new HashSet<>();
+
+        final List<String> names = new ArrayList<>();
 
         final SortedSet<String> adjectives = WordLists.load(ADJECTIVES_RESOURCE);
         final SortedSet<String> animals = WordLists.load(ANIMALS_RESOURCE);
 
         for (final String adjective : adjectives) {
+
             final String adjBegin;
             {
                 final Matcher matcher = MATCH_PATTERN.matcher(adjective);
@@ -80,6 +78,7 @@ public class Main {
                     adjBegin = adjective;
                 }
             }
+
             for (final String animal : animals) {
                 final String animalBegin;
                 {
@@ -97,15 +96,15 @@ public class Main {
             }
         }
 
-        final List<String> namesList = new ArrayList<>();
-        namesList.addAll(names);
-        Collections.shuffle(namesList);
+        Collections.shuffle(names);
 
-        final Iterator<String> namesIterator = namesList.iterator();
-        for (int i = 0; i < OUTPUT_LIST_LENGTH && namesIterator.hasNext(); i++) {
-            final String name = namesIterator.next();
+        int i = 0;
+        for (final String name : names) {
             System.out.println(name);
+            if (++i == OUTPUT_LIST_LENGTH) {
+                break;
+            }
         }
-        
+
     }
 }
