@@ -160,7 +160,6 @@ birdofparadise
 birman
 bishop
 bison
-bitch
 bittern
 blackback
 blackbird
@@ -170,6 +169,7 @@ blackstart
 blackthroat
 blenny
 blobfish
+blowfish
 bloodhound
 bloodworm
 blossomcrown
@@ -380,7 +380,6 @@ coleto
 coley
 collie
 colugo
-comet
 condor
 conebill
 conger
@@ -1340,7 +1339,6 @@ rayadito
 razorbill
 recluse
 recurvebill
-redhead
 redpoll
 redshank
 redstart
@@ -1728,7 +1726,6 @@ velociraptor
 velvet
 velvetbreast
 verdin
-victoria
 vicuna
 vinegaroon
 violetear
@@ -1813,7 +1810,6 @@ wrasse
 wren
 wrenthrush
 wrentit
-wriggled
 wrybill
 wryneck
 wyvern

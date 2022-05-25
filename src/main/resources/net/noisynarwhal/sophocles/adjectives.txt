@@ -183,6 +183,7 @@ balding
 baleful
 banging
 baronial
+baritone
 bashful
 beaming
 beatific
@@ -955,11 +956,11 @@ free
 freewheeling
 fresh
 friable
-friend
 friendly
 frisky
 frivolous
 frolicsome
+frowning
 frugal
 fruitful
 fuchsia
@@ -1554,7 +1555,7 @@ mordant
 moronic
 morose
 most
-mother
+motherly
 motivated
 motivating
 motivational
@@ -2155,6 +2156,7 @@ smacking
 smart
 smashing
 smiley
+smiling
 smooth
 snap
 snappy
@@ -2394,7 +2396,6 @@ tolerant
 top
 tops
 torpid
-total
 touching
 touchy
 tough
@@ -2674,7 +2675,7 @@ wondrous
 workable
 working
 worldly
-worm
+wormy
 worried
 worshipful
 worthwhile
