@@ -75,7 +75,8 @@ public class Main {
                 if (matcher.find()) {
                     adjBegin = matcher.group();
                 } else {
-                    adjBegin = adjective;
+                    final int beginLen = Math.min(2, adjective.length());
+                    adjBegin = adjective.substring(0, beginLen);
                 }
             }
 
@@ -86,7 +87,8 @@ public class Main {
                     if (matcher.find()) {
                         animalBegin = matcher.group();
                     } else {
-                        animalBegin = animal;
+                        final int beginLen = Math.min(2, animal.length());
+                        animalBegin = animal.substring(0, beginLen);
                     }
                 }
 
@@ -105,6 +107,9 @@ public class Main {
                 break;
             }
         }
+
+        System.out.println("");
+        System.out.println(Integer.toString(names.size()) + " possible combination names");
 
     }
 }

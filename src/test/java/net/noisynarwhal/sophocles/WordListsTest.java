@@ -5,8 +5,6 @@
  */
 package net.noisynarwhal.sophocles;
 
-import static net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE;
-import static net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -40,14 +38,16 @@ public class WordListsTest {
 
     /**
      * Test of print method, of class WordLists.
+     *
+     * @throws java.lang.Exception
      */
     @Test
     public void testPrint() throws Exception {
-//        System.out.println("print animals");
-//        WordLists.print(ANIMALS_RESOURCE);
+//        System.out.println("\nPrint Animals\n");
+//        WordLists.print(net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE);
 
-        System.out.println("print adjectives");
-        WordLists.print(ADJECTIVES_RESOURCE);
+        System.out.println("\nPrint Adjectives\n");
+        WordLists.print(net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE);
     }
 
 }
