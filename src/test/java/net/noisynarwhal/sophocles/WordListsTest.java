@@ -43,11 +43,16 @@ public class WordListsTest {
      */
     @Test
     public void testPrint() throws Exception {
-//        System.out.println("\nPrint Animals\n");
-//        WordLists.print(net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE);
 
-        System.out.println("\nPrint Adjectives\n");
-        WordLists.print(net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE);
+        if (1 == 0) {
+            System.out.println("\nPrint Animals\n");
+            WordLists.print(net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE);
+            System.out.println("\nPrint Animals\n");
+        } else {
+            System.out.println("\nPrint Adjectives\n");
+            WordLists.print(net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE);
+            System.out.println("\nPrint Adjectives\n");
+        }
     }
 
 }

@@ -5,6 +5,7 @@ accentor
 addax
 adjutant
 affenpinscher
+africangrey
 agouti
 aidi
 ainu
@@ -38,6 +39,7 @@ angus
 anhima
 anhinga
 ani
+ankylosaurus
 annelid
 anole
 ant
@@ -137,6 +139,7 @@ bee
 beefalo
 beetle
 bellbird
+beluga
 bentbill
 bergamasco
 bernard
@@ -169,10 +172,10 @@ blackstart
 blackthroat
 blenny
 blobfish
-blowfish
 bloodhound
 bloodworm
 blossomcrown
+blowfish
 bluebill
 bluebird
 bluebonnet
@@ -205,14 +208,17 @@ boomslang
 borador
 bordoodle
 borkie
+bottlenose
 boubou
 bowerbird
 bowfin
+bowhead
 boxador
 boxerdoodle
 boxfish
 boxsky
 boxweiler
+brachiosaurus
 brachyurus
 brambling
 brant
@@ -384,6 +390,7 @@ condor
 conebill
 conger
 constrictor
+conure
 coon
 coot
 copepod
@@ -467,6 +474,7 @@ dilophosaurus
 dimetrodon
 dingo
 dinosaur
+diplodocus
 dipper
 discus
 diucon
@@ -682,6 +690,7 @@ grassquit
 grasswren
 graveteiro
 grayling
+graywhale
 grebe
 greenbul
 greenfinch
@@ -807,7 +816,6 @@ indigobird
 indri
 inermis
 inezia
-infant
 insect
 iora
 irrawaddy
@@ -1142,6 +1150,7 @@ opisthocomus
 opossum
 orangequit
 orangutan
+orca
 orcaella
 oriole
 ornithorhynchus
@@ -1180,6 +1189,7 @@ paradigalla
 paradise
 parakeet
 paralarva
+parasaurolophus
 pardalote
 pardusco
 parisoma
@@ -1208,6 +1218,7 @@ penguin
 pennatulacea
 peppershrike
 percheron
+peregrine
 permit
 persian
 petrel
@@ -1309,6 +1320,7 @@ pupa
 puppy
 purplefrog
 purpletuft
+pygmy
 pyrador
 pyredoodle
 pyrrhuloxia
@@ -1401,7 +1413,6 @@ sandgrouse
 sandpiper
 saola
 sapayoa
-sapphire
 sapphirewing
 sapsucker
 sardine
@@ -1529,6 +1540,7 @@ sparrowhawk
 spat
 spatuletail
 speirops
+spermwhale
 sphinx
 spider
 spidercrab

@@ -29,7 +29,7 @@ public class Main {
      */
     public static final String ANIMALS_RESOURCE = "animals.txt";
     private static final Pattern MATCH_PATTERN = Pattern.compile("^([^aeiouy]+[aeiouy]+|[aeiouy]+[^aeiouy])");
-    //private static final Pattern MATCH_PATTERN = Pattern.compile("(?i)^(ph|sh|ch|qu|wh|th|kn|[aeiouy]+|[a-z])");
+    //private static final Pattern MATCH_PATTERN = Pattern.compile("(?i)^(ph|sh|ch|qu|wh|th|kn|ps|[aeiouy]+|[a-z])");
 
     /**
      * The length of the output of code names.
@@ -75,8 +75,7 @@ public class Main {
                 if (matcher.find()) {
                     adjBegin = matcher.group();
                 } else {
-                    final int beginLen = Math.min(2, adjective.length());
-                    adjBegin = adjective.substring(0, beginLen);
+                    adjBegin = adjective.substring(0, 1);
                 }
             }
 
@@ -87,12 +86,13 @@ public class Main {
                     if (matcher.find()) {
                         animalBegin = matcher.group();
                     } else {
-                        final int beginLen = Math.min(2, animal.length());
-                        animalBegin = animal.substring(0, beginLen);
+                        animalBegin = animal.substring(0, 1);
                     }
                 }
+                
+                final int matchLen = Math.min(adjBegin.length(), animalBegin.length());
 
-                if (adjBegin.equals(animalBegin) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
+                if (adjective.substring(0, matchLen).equals(animal.substring(0, matchLen)) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
                     names.add(adjective + ' ' + animal);
                 }
             }
