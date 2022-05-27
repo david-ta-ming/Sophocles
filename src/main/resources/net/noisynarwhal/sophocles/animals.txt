@@ -22,6 +22,7 @@ alligator
 allosaurus
 alpaca
 alusky
+amargasaurus
 amberjack
 ambystoma
 amphibian
@@ -296,6 +297,7 @@ cardinal
 carib
 caribou
 caripensis
+carnotaurus
 carp
 cascabel
 casiornis
@@ -386,6 +388,8 @@ coleto
 coley
 collie
 colugo
+compsognathus
+concavenator
 condor
 conebill
 conger
@@ -500,10 +504,12 @@ dove
 dowitcher
 doxiepoo
 doxle
+dracorex
 dragon
 dragonfish
 dragonfly
 drake
+dreadnoughtus
 drever
 drill
 drone
@@ -534,6 +540,7 @@ elephant
 elk
 emu
 emutail
+epidendrosaurus
 eremomela
 ermine
 erpornis
@@ -645,6 +652,7 @@ gharial
 giantclam
 gibberbird
 gibbon
+gigantoraptor
 giraffe
 glaber
 glassfrog
@@ -744,6 +752,7 @@ heathwren
 hedgehog
 heifer
 heleia
+helicoprion
 hellbender
 helmetcrest
 helmetshrike
@@ -812,6 +821,7 @@ iguanodon
 illadopsis
 impala
 inca
+incisivosaurus
 indigobird
 indri
 inermis
@@ -835,6 +845,7 @@ jaguar
 jarbu
 javanese
 jay
+jeholopterus
 jellyfish
 jenny
 jerboa
@@ -886,6 +897,7 @@ kooikerhondje
 kookaburra
 koolie
 korhaan
+kosmoceratops
 kouprey
 kowari
 kowaridae
@@ -893,6 +905,7 @@ kraken
 kreffti
 krill
 kudu
+kulindadromeus
 kune
 kuvasz
 labahoula
@@ -932,6 +945,7 @@ leviathon
 lhasapoo
 liger
 limpkin
+linhenykus
 linnet
 liocichla
 lion
@@ -949,6 +963,7 @@ longbeak
 longbill
 longclaw
 longicollis
+longisquama
 longspur
 longtail
 loon
@@ -983,6 +998,7 @@ malteagle
 maltese
 maltipoo
 mamba
+mamenchisaurus
 mammoth
 mamo
 manakin
@@ -1114,6 +1130,7 @@ newfypoo
 newt
 newtonia
 nicator
+nigersaurus
 nighthawk
 nightingale
 nightjar
@@ -1121,6 +1138,7 @@ nigrita
 nilgai
 niltava
 noddy
+nothronychus
 nothura
 nudibranch
 numbat
@@ -1155,6 +1173,7 @@ orcaella
 oriole
 ornithorhynchus
 oropendola
+oryctodromeus
 oryx
 osprey
 ostracod
@@ -1172,6 +1191,7 @@ oxylabes
 oyster
 oystercatcher
 paca
+pachycephalosaurus
 pacu
 paddlefish
 pademelon
@@ -1209,6 +1229,7 @@ peagle
 peahen
 peekapoo
 pegasus
+pegomastax
 pekingese
 pelican
 peltops
@@ -1326,6 +1347,7 @@ pyredoodle
 pyrrhuloxia
 python
 pytilia
+qianzhousaurus
 quagga
 quail
 quailfinch
@@ -1369,6 +1391,7 @@ rhabdornis
 rhea
 rhino
 rhinoceros
+rhinorex
 riflebird
 ringneck
 ringtail
@@ -1461,6 +1484,7 @@ shag
 shaglet
 shama
 shark
+sharovipteryx
 sharpbill
 sheartail
 shearwater
@@ -1594,6 +1618,7 @@ strigops
 stubtail
 stud
 sturgeon
+stygimoloch
 sugarbird
 sunangel
 sunbear
@@ -1606,6 +1631,7 @@ sungrebe
 superba
 surfbird
 surgeonfish
+suzhousaurus
 swallow
 swamphen
 swan
@@ -1649,6 +1675,7 @@ tetra
 tetraka
 thamnornis
 theloderma
+therizinosaurus
 thicketbird
 thistletail
 thornbill
@@ -1842,6 +1869,7 @@ yellowthroat
 yeti
 yoranian
 yuhina
+yutyrannus
 zaglossus
 zebra
 zebrafish

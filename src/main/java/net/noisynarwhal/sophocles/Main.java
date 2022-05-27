@@ -28,8 +28,8 @@ public class Main {
      * Location of the animals list resource file
      */
     public static final String ANIMALS_RESOURCE = "animals.txt";
-    private static final Pattern MATCH_PATTERN = Pattern.compile("^([^aeiouy]+[aeiouy]+|[aeiouy]+[^aeiouy])");
-    //private static final Pattern MATCH_PATTERN = Pattern.compile("(?i)^(ph|sh|ch|qu|wh|th|kn|ps|[aeiouy]+|[a-z])");
+    //private static final Pattern MATCH_PATTERN = Pattern.compile("^([^aeiouy]+[aeiouy]+|[aeiouy]+[^aeiouy])");
+    private static final Pattern MATCH_PATTERN = Pattern.compile("(?i)^(ph|sh|ch|qu|wh|th|kn|ps|[aeiouy]+|[a-z])");
 
     /**
      * The length of the output of code names.
