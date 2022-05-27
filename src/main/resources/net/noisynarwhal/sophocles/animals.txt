@@ -6,7 +6,7 @@ addax
 adelgid
 adjutant
 affenpinscher
-africangrey
+africangreydunno
 agouti
 agracadabra
 aholehole
@@ -626,7 +626,6 @@ dugong
 duiker
 dunker
 dunlin
-dunno
 dunnock
 eagle
 eaglet

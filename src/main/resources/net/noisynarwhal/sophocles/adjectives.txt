@@ -215,6 +215,7 @@ assistive
 associate
 associated
 associative
+assorted
 assured
 assuring
 astir
@@ -370,7 +371,6 @@ bookish
 boorish
 bootless
 boring
-boss
 bossy
 bothersome
 bouncing
@@ -483,6 +483,7 @@ champion
 chancy
 changeable
 changeless
+changing
 chaotic
 character
 charcoal
@@ -939,6 +940,7 @@ disloyal
 disobedient
 disorganized
 disorienting
+disparate
 dispassionate
 dispensable
 disquieting
@@ -1402,8 +1404,8 @@ gallant
 galling
 gallium
 galore
-game
 gamesome
+gaming
 gamy
 gangly
 gargantuan
@@ -1590,6 +1592,7 @@ hermetical
 heroic
 hesitant
 heteroclite
+heterogeneous
 heuristic
 hidden
 hideous
@@ -2030,6 +2033,7 @@ leery
 legal
 legendary
 legible
+legion
 legit
 legitimate
 leisured
@@ -2141,10 +2145,12 @@ manganese
 maniacal
 manic
 manifest
+manifold
 manipulative
 manly
 mannered
 mannerly
+many
 marauding
 marked
 marketable
@@ -2216,6 +2222,7 @@ mint
 miraculous
 mirthful
 misanthropic
+miscellaneous
 mischievous
 miscreant
 miserable
@@ -2225,6 +2232,7 @@ mistrustful
 misty
 mitigative
 mitigatory
+mixed
 mod
 model
 modern
@@ -2250,6 +2258,7 @@ motherly
 motivated
 motivating
 motivational
+motley
 motor
 mountainous
 mousy
@@ -2262,6 +2271,11 @@ muffled
 multidimensional
 multidisciplined
 multifaceted
+multifarious
+multiform
+multiscious
+multitudinal
+multitudinous
 mum
 mumetal
 munificent
@@ -2364,6 +2378,7 @@ nubile
 nugatory
 numb
 numberless
+numerous
 numinous
 nurturing
 nutrimental
@@ -2414,6 +2429,7 @@ old
 olden
 olive
 olympian
+omnifarious
 omnipotent
 omniscient
 omnivorous
@@ -2627,11 +2643,13 @@ polished
 polite
 politic
 political
-polymath
+polymathic
+polymorphic
 pompous
 pondering
 pontifical
 popular
+populous
 posessive
 posh
 positive
@@ -2642,7 +2660,6 @@ potbellied
 potent
 potential
 powerful
-powerhouse
 practicable
 practical
 practised
@@ -3058,6 +3075,7 @@ sensual
 sensuous
 sentient
 sentimental
+separate
 sequacious
 seraphic
 serendipitous
@@ -3070,6 +3088,7 @@ servile
 serving
 set
 settled
+several
 severe
 sexy
 shaded
@@ -3302,10 +3321,10 @@ stipendiary
 stirred
 stirring
 stocky
+stodgy
 stoic
 stoical
 stolid
-stooge
 stooped
 storied
 storming
@@ -3361,6 +3380,7 @@ sultry
 summary
 summery
 sumptuous
+sundry
 sunny
 super
 superabundant
@@ -3591,6 +3611,7 @@ unadulterated
 unadvertised
 unaffected
 unafraid
+unalike
 unalloyed
 unambiguous
 unambivalent
@@ -3668,6 +3689,7 @@ undoubted
 unearthly
 unemotional
 unencumbered
+unequal
 unequaled
 unequalled
 unequivocal
@@ -3716,6 +3738,7 @@ unique
 united
 universal
 unknowable
+unlike
 unlimited
 unlucky
 unmanageable
@@ -3860,6 +3883,9 @@ vanadium
 vanillaworn
 vapid
 variable
+variant
+varied
+variegated
 vast
 vaulting
 vehement
