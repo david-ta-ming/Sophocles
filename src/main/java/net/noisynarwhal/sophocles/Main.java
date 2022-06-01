@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.SortedSet;
+import java.util.TreeSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -68,7 +69,7 @@ public class Main {
         final SortedSet<String> animals = WordLists.load(ANIMALS_RESOURCE);
 
         for (final String adjective : adjectives) {
-            
+
             final String adjBegin;
             {
                 final Matcher matcher = MATCH_PATTERN.matcher(adjective);
@@ -89,23 +90,17 @@ public class Main {
                         animalBegin = animal.substring(0, 1);
                     }
                 }
-                
-                final int matchLen = Math.min(adjBegin.length(), animalBegin.length());
 
-                if (adjective.substring(0, matchLen).equals(animal.substring(0, matchLen)) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
+                if (adjBegin.equals(animalBegin) && !(adjective.startsWith(animal) || animal.startsWith(adjective))) {
                     names.add(adjective + ' ' + animal);
                 }
             }
         }
 
         Collections.shuffle(names);
-
-        int i = 0;
-        for (final String name : names) {
+        
+        for(final String name : names.subList(0, Math.min(OUTPUT_LIST_LENGTH, names.size()))) {
             System.out.println(name);
-            if (++i == OUTPUT_LIST_LENGTH) {
-                break;
-            }
         }
 
         System.out.println("");

@@ -21,6 +21,8 @@ absolute
 absolved
 absorbed
 absorbing
+abstemious
+abstinent
 abstracted
 abstruse
 absurd
@@ -40,6 +42,8 @@ accountable
 accredited
 accurate
 accustomed
+acicular
+aciculate
 acidic
 acknowledged
 acquainted
@@ -70,6 +74,7 @@ adorable
 adored
 adroit
 advanced
+advancing
 advantaged
 advantageous
 adventitious
@@ -90,6 +95,7 @@ affiliated
 affined
 affluent
 affluential
+affronted
 afire
 aflame
 aged
@@ -111,6 +117,7 @@ aired
 airy
 alacritous
 alar
+alarmed
 alarming
 alary
 alate
@@ -151,6 +158,7 @@ amuck
 amusing
 analytical
 anamnestic
+anchored
 anesthetized
 anfractuous
 angelic
@@ -161,6 +169,7 @@ announced
 annoyed
 annoying
 annulated
+antagonized
 anthracite
 antic
 antipathetic
@@ -199,6 +208,7 @@ ardent
 arduous
 argentium
 argumentative
+arid
 aristocratic
 aroused
 arousing
@@ -212,6 +222,7 @@ artless
 arty
 ascendant
 ascending
+ascetic
 asinine
 asleep
 aspirant
@@ -228,7 +239,9 @@ assorted
 assured
 assuring
 astir
+astonished
 astonishing
+astounded
 astounding
 astral
 astronomical
@@ -300,6 +313,7 @@ barren
 base
 bashful
 basic
+bathetic
 bawdy
 beaming
 beatific
@@ -357,7 +371,9 @@ billowy
 bitter
 bizarre
 black
+blah
 blameless
+bland
 blasphemous
 blazed
 blazing
@@ -403,6 +419,7 @@ boundless
 bounteous
 bountiful
 boyish
+brackish
 brainless
 brainy
 brash
@@ -415,6 +432,7 @@ breakneck
 breathless
 breathtaking
 breezy
+bricklike
 brief
 bright
 brill
@@ -506,6 +524,7 @@ cerium
 certain
 certified
 cerulean
+chafed
 challenging
 chameleon
 champion
@@ -521,6 +540,7 @@ charismatic
 charitable
 charmed
 charming
+chary
 chaste
 chatty
 chauvinistic
@@ -569,6 +589,7 @@ civil
 civilized
 clairvoyant
 clamant
+clammy
 clamorous
 clandestine
 classic
@@ -583,10 +604,12 @@ clearheaded
 clement
 clerical
 clever
+climbing
 clingy
 cloaked
 cloistered
 close
+closed
 closemouthed
 closet
 closeted
@@ -670,10 +693,13 @@ comprehendible
 comprehending
 comprehensible
 comprehensive
+conation
+conative
 concealed
 conceited
 conceivable
 concentrated
+concerned
 concerted
 concise
 conclusive
@@ -690,6 +716,7 @@ confidential
 confirmable
 confirmed
 conflagrant
+confounded
 confounding
 confrontational
 confused
@@ -707,6 +734,7 @@ consentaneous
 consentient
 consenting
 consequential
+conservational
 conservative
 considerable
 considerate
@@ -727,6 +755,7 @@ contemptible
 contemptuous
 content
 contented
+continent
 contrary
 contributive
 controlled
@@ -743,6 +772,7 @@ convictive
 convincing
 convivial
 convoluted
+convulsed
 cooing
 cooked
 cool
@@ -767,11 +797,13 @@ coruscant
 cosmic
 cosmopolitan
 cosy
+cottonmouthed
 courageous
 courteous
 courtly
 couth
 covered
+covering
 covert
 covetable
 coveted
@@ -806,6 +838,7 @@ crisp
 critical
 crooked
 cropped
+cross
 crouching
 crucial
 cruel
@@ -833,6 +866,7 @@ curvaceous
 curved
 curvy
 cushy
+custodial
 customary
 cute
 cutting
@@ -857,6 +891,7 @@ darmstadtium
 dashing
 daughterly
 dauntless
+dazed
 dazzling
 dead
 deadened
@@ -893,6 +928,7 @@ definite
 definitive
 deft
 degenerate
+dehydrated
 deistic
 delectable
 delerious
@@ -902,6 +938,7 @@ delicate
 delicious
 delighted
 delightful
+delish
 delphic
 delusive
 delusory
@@ -912,6 +949,7 @@ demonic
 demonstrative
 demulcent
 demure
+deniable
 dense
 dependable
 dependent
@@ -936,12 +974,14 @@ destined
 detached
 detailed
 determined
+detestable
 developed
 developing
 devilish
 devious
 devoted
 devotional
+devouring
 devout
 dexterous
 diabolic
@@ -981,6 +1021,7 @@ discriminating
 discriminatory
 disdainful
 disguised
+disgusted
 disheveled
 dishonest
 dishy
@@ -993,11 +1034,13 @@ disorienting
 disparate
 dispassionate
 dispensable
+displeased
 disquieting
 disrespectful
 disruptive
 dissolute
 distant
+distasteful
 distinct
 distinctive
 distinguished
@@ -1045,9 +1088,11 @@ dreaming
 dreamy
 dreary
 dressy
+drippy
 driven
 driving
 droll
+droughty
 drowsy
 drugged
 drunk
@@ -1130,6 +1175,7 @@ elliptical
 eloquent
 emblematic
 emboldened
+emergency
 emerging
 eminent
 emotional
@@ -1168,6 +1214,7 @@ enlivened
 enlivening
 enormous
 enough
+enraged
 enriching
 enslaved
 ensorcelled
@@ -1228,10 +1275,12 @@ evident
 evil
 evocative
 evolved
+exacerbated
 exact
 exacting
 exaggerated
 exalted
+exasperated
 exceeding
 excellent
 exceptional
@@ -1374,7 +1423,11 @@ flashy
 flat
 flattered
 flattering
+flavored
 flavorful
+flavorless
+flavorsome
+flavory
 flawless
 fleet
 flexible
@@ -1421,9 +1474,12 @@ fortunate
 forward
 foul
 foundational
+founded
 foxy
 fractious
+fragile
 fragrant
+frail
 frank
 frantic
 fraternal
@@ -1435,6 +1491,7 @@ fretful
 friable
 fried
 friendly
+frightened
 frilly
 frisky
 frivolous
@@ -1452,6 +1509,7 @@ fuliginous
 full
 fulsome
 fumbling
+fuming
 fun
 functional
 fundamental
@@ -1467,6 +1525,7 @@ gagger
 gagster
 gainful
 gallant
+galled
 galling
 gallium
 galore
@@ -1500,6 +1559,7 @@ gifted
 gigantic
 giggling
 ginger
+gingerly
 giving
 glad
 glamoring
@@ -1582,6 +1642,7 @@ gruesome
 grumpy
 guaranteed
 guarded
+guardian
 gubernatorial
 guided
 guiding
@@ -1731,6 +1792,7 @@ hush
 hushed
 hushing
 husky
+hustling
 hyaline
 hygienic
 hyper
@@ -1752,6 +1814,7 @@ idolized
 igneous
 ignited
 ignorant
+ill
 illiberal
 illimitable
 illiterate
@@ -1777,6 +1840,7 @@ immoral
 immortal
 immovable
 immune
+immutable
 impalpable
 impartial
 impassable
@@ -1834,6 +1898,7 @@ inarticulate
 incandescent
 incautious
 incendiary
+incensed
 incessant
 incisive
 inciteful
@@ -1850,6 +1915,7 @@ incompliant
 incomprehensible
 inconceivable
 inconel
+inconsiderable
 inconsiderate
 inconsistent
 incontestable
@@ -1922,6 +1988,7 @@ influenced
 influential
 informative
 informed
+infuriated
 ingenios
 ingenious
 ingenuous
@@ -1944,6 +2011,7 @@ innoxious
 inordinate
 inquisitive
 insane
+insatiable
 insatiate
 inscrutable
 insensate
@@ -1970,6 +2038,7 @@ instructive
 instrumental
 insubordinate
 insulated
+insulating
 insuperable
 insurgent
 insurmountable
@@ -2004,6 +2073,7 @@ introduced
 introverted
 intuitive
 invaluable
+invariable
 inventive
 inveterate
 invidious
@@ -2039,7 +2109,9 @@ irresistible
 irresponsible
 irreverent
 irritable
+irritated
 irritating
+itching
 ivory
 jaculable
 jaded
@@ -2082,6 +2154,7 @@ jubilant
 judgemental
 judgmental
 judicious
+juiceless
 juicy
 jumbled
 jump
@@ -2125,6 +2198,7 @@ lame
 lamentable
 languid
 languishing
+lank
 lanky
 lanthanum
 large
@@ -2191,6 +2265,7 @@ limber
 lime
 limpid
 lionhearted
+lippy
 lissome
 listener
 listless
@@ -2198,6 +2273,7 @@ literary
 literate
 lithe
 lithesome
+little
 live
 lively
 living
@@ -2242,6 +2318,7 @@ luring
 luscious
 lush
 lustful
+lusting
 lustrous
 lusty
 lutetium
@@ -2253,6 +2330,7 @@ macabre
 machiavellian
 mad
 madcap
+maddened
 maddening
 magenta
 magic
@@ -2304,6 +2382,7 @@ maudlin
 mauve
 maximal
 mazy
+meager
 mean
 meandering
 meandrous
@@ -2321,6 +2400,7 @@ melancholy
 mellow
 melodic
 melodious
+melodramatic
 memorable
 mendacious
 mendelevium
@@ -2346,6 +2426,7 @@ mettlesome
 mighty
 mild
 minatory
+mincing
 minded
 mindful
 mindless
@@ -2353,6 +2434,7 @@ minikin
 minimalistic
 ministerial
 mint
+minute
 miraculous
 mirthful
 misanthropic
@@ -2369,14 +2451,18 @@ mitigatory
 mixed
 mod
 model
+moderate
+moderating
 modern
 modernistic
 modest
 modish
+mollifying
 molybdenum
 momentous
 monel
 moneyed
+monotonous
 monumental
 moody
 moonstruck
@@ -2438,6 +2524,7 @@ mystical
 mystifying
 mythical
 nagging
+nailed
 naive
 naked
 nambe
@@ -2453,6 +2540,8 @@ native
 natty
 natural
 naughty
+nauseated
+nauseating
 navy
 navyblue
 nearby
@@ -2472,6 +2561,7 @@ nerdy
 nervous
 nervy
 nestling
+nettled
 neutral
 new
 newborn
@@ -2499,6 +2589,8 @@ noncommittal
 noncompetitive
 nonconformist
 nondescript
+nonirritant
+nonirritating
 nonpareil
 nonpublic
 nonreactive
@@ -2512,6 +2604,7 @@ nosy
 notable
 noted
 noteworthy
+nothing
 noticeable
 notorious
 nourished
@@ -2563,6 +2656,7 @@ odious
 oecumenical
 off
 offbeat
+offended
 offensive
 offhand
 official
@@ -2635,6 +2729,7 @@ overjoyed
 overpowering
 overriding
 overrun
+overstrung
 overt
 overweening
 overweight
@@ -2701,6 +2796,7 @@ peppy
 perceptible
 perceptive
 percipient
+perdurable
 peregrine
 peremptory
 perfect
@@ -2766,6 +2862,7 @@ pioneering
 pious
 piquant
 piqued
+pissed
 piteous
 pithy
 pivotal
@@ -2857,6 +2954,7 @@ prepossessing
 preposterous
 prepotent
 present
+preservative
 pressing
 prestigious
 presupposing
@@ -2931,6 +3029,7 @@ prostrate
 protactinium
 protean
 protected
+protecting
 protective
 proud
 providential
@@ -2938,6 +3037,7 @@ provocative
 provoked
 provoking
 prudent
+prudish
 prurient
 psychedelic
 public
@@ -2953,11 +3053,14 @@ punch
 punchy
 punctilious
 punctual
+pungent
 punster
 puny
 pure
+puritanical
 purple
 purposeful
+pushing
 pusillanimous
 puzzling
 quack
@@ -2965,8 +3068,10 @@ quaint
 qualified
 qualitative
 quality
+qualmish
 quantifiable
 quarrelsome
+queasy
 queenly
 queer
 quemeful
@@ -3068,6 +3173,7 @@ relishable
 reluctant
 remarkable
 remissive
+remote
 renegade
 renowned
 repellent
@@ -3075,6 +3181,8 @@ reported
 repressed
 repressive
 reprobate
+repugnant
+repulsive
 reputable
 resentful
 reserved
@@ -3107,7 +3215,9 @@ revered
 reverent
 reverential
 revitalizing
+revolting
 revolutionary
+revolving
 rewardable
 rewarded
 rewarding
@@ -3123,6 +3233,7 @@ rife
 right
 righteous
 rightful
+riled
 ringing
 riot
 riotous
@@ -3133,6 +3244,8 @@ risque
 ritzy
 riveting
 robust
+rocklike
+rocky
 roentgenium
 rollicking
 romantic
@@ -3141,6 +3254,7 @@ rooted
 ropy
 rosewater
 rosy
+rotating
 rotten
 rotund
 rough
@@ -3175,6 +3289,7 @@ sacrosanct
 sad
 sadistic
 safe
+safeguarding
 sagacious
 sage
 sainted
@@ -3194,6 +3309,7 @@ sane
 sanguine
 sapid
 sapient
+sapless
 sapoforic
 sappy
 sarcastic
@@ -3217,6 +3333,7 @@ savvy
 scalding
 scandalous
 scandium
+scant
 scared
 scary
 scenic
@@ -3240,6 +3357,7 @@ scrumptious
 scrupulous
 seaborgium
 seamless
+seasick
 seasonal
 seasoned
 secluded
@@ -3286,6 +3404,7 @@ shaded
 shadowlike
 shadowy
 shaggy
+shaky
 shallow
 shameful
 shameless
@@ -3301,7 +3420,9 @@ sheen
 sheeny
 sheepheaded
 sheer
+sheltering
 shibuichi
+shielding
 shifty
 shimmering
 shimmery
@@ -3309,6 +3430,7 @@ shined
 shining
 shiny
 shipshape
+shocked
 short
 showy
 shrewd
@@ -3317,6 +3439,8 @@ shrouded
 shuck
 shut
 shy
+sick
+sickening
 sickly
 sighted
 sightly
@@ -3351,12 +3475,14 @@ skeptical
 skilled
 skillful
 skinny
+skittish
 skyscraping
 skyward
 slapstick
 slavish
 sleazy
 sleek
+sleepless
 sleepy
 slender
 slick
@@ -3374,6 +3500,7 @@ sluggish
 slushy
 sly
 smacking
+small
 smart
 smashed
 smashing
@@ -3420,8 +3547,10 @@ soothing
 sophic
 sophisticated
 soporific
+soppy
 sorcerous
 sordid
+sore
 soulful
 soulless
 soulmate
@@ -3433,6 +3562,7 @@ spacious
 spangly
 spanking
 spare
+sparing
 sparkling
 sparkly
 spartan
@@ -3452,7 +3582,9 @@ sphinxlike
 spicy
 spiffy
 spiky
+spindling
 spineless
+spinning
 spiring
 spirited
 spiritual
@@ -3461,6 +3593,7 @@ spiteful
 spitting
 splendid
 splendiferous
+splenetic
 spoiled
 spontaneous
 spooky
@@ -3480,7 +3613,9 @@ spurious
 squalid
 square
 squat
+squeamish
 staballoy
+stabile
 stable
 stacked
 staggering
@@ -3493,10 +3628,13 @@ standing
 star
 stark
 starry
+startled
 startling
 starved
+starving
 state
 stately
+stationary
 statuesque
 staunch
 steadfast
@@ -3529,6 +3667,7 @@ stodgy
 stoic
 stoical
 stolid
+stone
 stooped
 storied
 storming
@@ -3547,13 +3686,16 @@ strident
 striking
 stringent
 stringy
+striving
 strong
 stronger
 stubborn
 studied
 studious
 stuffy
+stunned
 stunning
+stupefied
 stupefying
 stupendous
 stupid
@@ -3572,6 +3714,7 @@ substant
 substantial
 substantive
 subtle
+succeeding
 successful
 succinct
 succulent
@@ -3626,6 +3769,7 @@ swank
 swanky
 swashbuckling
 sweet
+sweetened
 swell
 sweltering
 sweltry
@@ -3662,6 +3806,7 @@ tanked
 tantalizing
 tantalum
 tasteful
+tasteless
 tasty
 tattooed
 taught
@@ -3687,6 +3832,7 @@ tempting
 tenable
 tenacious
 tender
+tense
 tenuous
 terbium
 terrible
@@ -3705,6 +3851,7 @@ thieving
 thin
 thinker
 thinking
+thirsting
 thirsty
 thirtyish
 thorium
@@ -3748,6 +3895,8 @@ tolerant
 tomfool
 tongueless
 tony
+toothsome
+toothy
 top
 tops
 torpid
@@ -3786,6 +3935,7 @@ trim
 trite
 triumphant
 trivial
+troubled
 troublesome
 troublous
 truculent
@@ -3832,11 +3982,13 @@ unaffected
 unafraid
 unalike
 unalloyed
+unalterable
 unambiguous
 unambivalent
 unanimous
 unannounced
 unanswerable
+unappetizing
 unarguable
 unarticulate
 unartificial
@@ -3863,6 +4015,7 @@ unbroken
 uncanny
 uncensurable
 uncertain
+unchangeable
 unchanging
 uncharitable
 uncivilized
@@ -3922,6 +4075,7 @@ undivided
 undomesticated
 undoubted
 unearthly
+uneasy
 uneducated
 unelaborate
 unembellished
@@ -3933,6 +4087,7 @@ unequalled
 unequivocal
 unerring
 unethical
+unexciting
 unexpected
 unexperienced
 unexplainable
@@ -3951,7 +4106,9 @@ unfilled
 unflagging
 unflappable
 unflinching
+unfluctuating
 unforbearing
+unforthcoming
 unfriendly
 unfussy
 ungodly
@@ -3967,6 +4124,7 @@ unhesitating
 unholy
 unhurt
 unified
+uniform
 unimaginable
 unimaginative
 unimpaired
@@ -3978,8 +4136,10 @@ unimpressionable
 unindulgent
 uninhabited
 uninspired
+uninspiring
 unintelligent
 unintelligible
+uninteresting
 uninvolved
 unique
 united
@@ -4048,12 +4208,15 @@ unruly
 unsacred
 unsaid
 unsatisfied
+unsavory
 unschooled
 unsearchable
 unseasoned
 unselfish
+unsettled
 unshakable
 unshaken
+unsleeping
 unsober
 unsociable
 unsophisticated
@@ -4066,6 +4229,7 @@ unspoilt
 unspoken
 unstable
 unstated
+unstimulating
 unstinging
 unstoppable
 unstudied
@@ -4096,6 +4260,7 @@ ununprejudiced
 unusual
 unuttered
 unvarnished
+unvarying
 unviolated
 unvirtuous
 unvoiced
@@ -4179,10 +4344,12 @@ veridical
 verified
 versatile
 versed
+vertiginous
 very
 vestal
 veteran
 vexatious
+vexed
 vexing
 viable
 vibrant
@@ -4242,6 +4409,9 @@ waste
 wasted
 wasteful
 watchful
+waterish
+waterless
+watery
 wavy
 wayward
 weak
@@ -4265,6 +4435,7 @@ wet
 wheat
 wheedling
 whimsical
+whirling
 whispering
 white
 whiz
@@ -4283,6 +4454,7 @@ willful
 willing
 willowy
 wily
+wimpy
 winded
 winding
 winged
@@ -4293,9 +4465,11 @@ wired
 wiry
 wise
 wishful
+wispy
 wistful
 witching
 witchlike
+withdrawn
 withering
 withheld
 witless
@@ -4353,6 +4527,7 @@ zazzy
 zealed
 zealful
 zealous
+zero
 zestful
 zesty
 zigzag

@@ -44,7 +44,7 @@ public class WordListsTest {
     @Test
     public void testPrint() throws Exception {
 
-        if (1 == 1) {
+        if (1 == 0) {
             System.out.println("\nPrint Animals\n");
             WordLists.print(net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE);
             System.out.println("\nPrint Animals\n");
