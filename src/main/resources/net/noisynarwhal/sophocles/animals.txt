@@ -445,6 +445,7 @@ cardinalfish
 carib
 caribou
 caripensis
+carnivore
 carnotaurus
 carora
 carp
@@ -1054,6 +1055,7 @@ hembra
 hemicentetes
 hemispingus
 hen
+herbivore
 hereford
 herens
 hermit
@@ -1605,14 +1607,13 @@ oedipina
 ogcocephalus
 ogre
 oilbird
-oilbirds
 oilfish
 okapi
-oldwife
 olingo
 olinguito
 oliveback
 olm
+omnivore
 ongole
 opah
 opaleye
