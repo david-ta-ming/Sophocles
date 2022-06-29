@@ -34,7 +34,7 @@ public class Main {
     /**
      * The length of the output of code names.
      */
-    public static final int OUTPUT_LIST_LENGTH = 150;
+    public static final int OUTPUT_LIST_LENGTH = 250;
     private static final org.apache.logging.log4j.Logger LOGGER = org.apache.logging.log4j.LogManager.getLogger(Main.class.getName());
 
     /**

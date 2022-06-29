@@ -5,6 +5,7 @@ abigar
 abondance
 abyssinian
 accentor
+accipiter
 aceh
 achham
 adamawa
@@ -20,6 +21,7 @@ africangus
 afrikaner
 agama
 agerolese
+agnatha
 agouti
 agracadabra
 aholehole
@@ -48,6 +50,7 @@ algaeeater
 alligator
 alligatorfish
 allmogekor
+allonautilus
 allosaurus
 alpaca
 alur
@@ -59,6 +62,7 @@ ameiva
 amerifax
 ammonite
 ammonoid
+amoeba
 amphibian
 amphipod
 amur
@@ -129,6 +133,7 @@ aruana
 asity
 asp
 astrapia
+astronotus
 atlanticus
 atopogale
 atretochoana
@@ -174,6 +179,7 @@ bandicoot
 bangus
 banjo
 banshee
+banteng
 baoule
 barb
 barbel
@@ -366,6 +372,7 @@ brug
 bruijnii
 brushfinch
 brushrunner
+brushtail
 brushturkey
 bryozoan
 buck
@@ -400,6 +407,7 @@ bushuyev
 bushwren
 bustard
 butcherbird
+buteo
 butterfish
 butterfly
 butterflyfish
@@ -512,6 +520,7 @@ chinook
 chipmunk
 chipoo
 chironectes
+chital
 chiton
 chiweenie
 chlamydoselachus
@@ -556,6 +565,7 @@ cockatoo
 cockatrice
 cockchafer
 cockerel
+cockle
 cockroach
 cod
 codfish
@@ -567,9 +577,9 @@ coleoid
 coleto
 coley
 collie
+colossoma
 colugo
 combfish
-commercial
 compsognathus
 concavenator
 condor
@@ -665,6 +675,7 @@ darner
 darter
 dartfish
 darwini
+dasyurid
 daubentonia
 dauber
 ddraig
@@ -682,6 +693,7 @@ dhanni
 dhole
 dhufish
 diamondback
+dibbler
 dickcissel
 dikdik
 dilophosaurus
@@ -728,6 +740,7 @@ dreadnoughtus
 drever
 driftfish
 drill
+dromedary
 drone
 drongo
 droughtmaster
@@ -739,6 +752,7 @@ dugong
 duiker
 dunker
 dunlin
+dunnart
 dunnock
 dwarfgoby
 eagle
@@ -1194,6 +1208,8 @@ kakapo
 kakarratul
 kake
 kaluga
+kaluta
+kang
 kangal
 kangaroo
 kangayam
@@ -1254,6 +1270,7 @@ kreffti
 krill
 kudu
 kulindadromeus
+kultarr
 kune
 kuri
 kuvasz
@@ -1286,6 +1303,7 @@ larva
 larvae
 lasiorhinus
 laughingthrush
+leadbeater
 leafbird
 leaffish
 leafhopper
@@ -1299,6 +1317,7 @@ leech
 leiothrix
 lemming
 lemur
+lemuroid
 lenok
 leonberger
 leopard
@@ -1375,6 +1394,7 @@ magpie
 mahi
 mahseer
 mako
+mala
 maleo
 malia
 malimbe
@@ -1444,6 +1464,7 @@ megapode
 melampitta
 melanocetus
 melidectes
+melomy
 menhaden
 menorquina
 merganser
@@ -1490,6 +1511,7 @@ mongrel
 moniliger
 monitor
 monjita
+monjon
 monkey
 monkfish
 monklet
@@ -1524,6 +1546,7 @@ mudpuppy
 mudskipper
 mudsucker
 mule
+mulgara
 mullet
 mummichog
 munia
@@ -1542,10 +1565,12 @@ muturu
 myiobius
 myna
 myocastor
+myotis
 myrmidon
 myza
 myzomela
 myzornis
+nabarlek
 nagori
 nannopterum
 nanny
@@ -1581,6 +1606,8 @@ nigrita
 nilgai
 niltava
 nimari
+ningaui
+ningbing
 noddy
 noodlefish
 normande
@@ -1615,6 +1642,7 @@ oliveback
 olm
 omnivore
 ongole
+ooldea
 opah
 opaleye
 openbill
@@ -1672,6 +1700,7 @@ paradise
 parakeet
 paralarva
 parasaurolophus
+parasite
 pardalote
 pardusco
 parisoma
@@ -1714,12 +1743,12 @@ perch
 percheron
 peregrine
 permit
-persian
 petrel
 pewee
 phainopepla
 phainoptila
 phalarope
+phascogale
 pheasant
 philentoma
 phoebe
@@ -1752,8 +1781,10 @@ pinzgauer
 piopio
 pipefish
 pipipi
+pipistrelle
 pipit
 piprites
+piraiba
 piranha
 pirarara
 pirarucu
@@ -1765,6 +1796,7 @@ pitta
 pitviper
 pixie
 plaice
+planigale
 plantcutter
 planula
 platy
@@ -1826,6 +1858,7 @@ prinia
 prion
 pronghorn
 proscopiidae
+protozoa
 prowfish
 pseudopus
 ptarmigan
@@ -1882,6 +1915,7 @@ raggiana
 raggle
 rail
 rainbowfish
+rakali
 ram
 randall
 raramuri
@@ -1905,6 +1939,7 @@ redfish
 redpoll
 redshank
 redstart
+redtail
 redthroat
 reduviidae
 redwing
@@ -1966,6 +2001,7 @@ rudd
 rudderfish
 ruff
 ruffe
+rusa
 rushbird
 sabertooth
 sable
@@ -2001,6 +2037,7 @@ sapphirewing
 sapsucker
 sardine
 sardines
+sarrasalmus
 sassaby
 satinbird
 saturniid
@@ -2009,7 +2046,7 @@ sauger
 saury
 sawfish
 sayaguesa
-scat
+scallop
 scaup
 schiffornis
 schipperke
@@ -2161,6 +2198,7 @@ sole
 solenodon
 solitaire
 songlark
+sooty
 sora
 sow
 spadebill
@@ -2306,6 +2344,7 @@ tarpon
 tarsier
 tarsius
 tarwhine
+tasmanian
 tatarica
 tattler
 taurus
@@ -2387,6 +2426,7 @@ traira
 treecreeper
 treefish
 treehunter
+treekang
 treepie
 treerunner
 treeswift
@@ -2394,7 +2434,7 @@ trembler
 trevalla
 trevally
 trex
-triceratops
+triceratop
 triggerfish
 triller
 trilobite
@@ -2413,6 +2453,7 @@ tuatara
 tubeblenny
 tubeshoulder
 tuco
+tucunare
 tudanca
 tuftdeer
 tuftedcheek
@@ -2506,6 +2547,7 @@ waxworm
 weasel
 weatherfish
 weaver
+weddell
 wedgebill
 weebill
 weever
@@ -2562,6 +2604,7 @@ woodstar
 woodswallow
 worm
 wormfish
+woylie
 wrasse
 wren
 wrenthrush
