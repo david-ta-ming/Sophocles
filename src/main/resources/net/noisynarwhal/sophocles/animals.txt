@@ -16,7 +16,6 @@ adelgid
 adjutant
 afar
 affenpinscher
-africangreydunno
 africangus
 afrikaner
 agama
@@ -160,7 +159,6 @@ babax
 babbler
 babirusa
 baboon
-baby
 babyrousa
 bactrian
 badger
@@ -399,6 +397,7 @@ buri
 burlina
 burmese
 bushbird
+bushbuck
 bushcrow
 bushmaster
 bushshrike
@@ -911,6 +910,7 @@ gaur
 gavialis
 gazelle
 gecko
+gelada
 gelbvieh
 gemsbok
 genet
@@ -1048,6 +1048,7 @@ hare
 harpy
 harrier
 hart
+hartebeest
 hatchetfish
 hatchling
 havanese
@@ -1126,7 +1127,6 @@ husky
 huskydoodle
 hussar
 hwamei
-hybridmaster
 hydra
 hydropotes
 hyena
@@ -1246,6 +1246,7 @@ kitten
 kittiwake
 kittybear
 kiwi
+klipspringer
 knifefish
 knifejaw
 knot
@@ -1921,6 +1922,7 @@ randall
 raramuri
 rasbora
 rat
+ratel
 ratfish
 rathi
 ratisches
@@ -2536,6 +2538,7 @@ warthog
 waryfish
 wasp
 waspfish
+waterbuck
 watercock
 waterdeer
 waterhen
