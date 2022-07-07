@@ -2039,6 +2039,7 @@ phainoptila
 phalarope
 phascogale
 pheasant
+pheucticus
 philentoma
 phoebe
 phoenix
@@ -2115,6 +2116,7 @@ pollock
 pollyfish
 polyp
 pomapoo
+pomarine
 pomchi
 pomeagle
 pomeranian
@@ -2636,6 +2638,7 @@ steelhead
 steenbras
 stegosaurus
 stenonychosaurus
+sternidae
 stickleback
 stilt
 stingfish
