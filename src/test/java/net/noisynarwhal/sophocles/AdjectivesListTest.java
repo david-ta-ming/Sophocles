@@ -15,9 +15,9 @@ import org.junit.Test;
  *
  * @author lioudt
  */
-public class WordListsTest {
+public class AdjectivesListTest {
 
-    public WordListsTest() {
+    public AdjectivesListTest() {
     }
 
     @BeforeClass
@@ -44,15 +44,10 @@ public class WordListsTest {
     @Test
     public void testPrint() throws Exception {
 
-        if (1 == 1) {
-            System.out.println("\nPrint Animals\n");
-            WordLists.print(net.noisynarwhal.sophocles.Main.ANIMALS_RESOURCE);
-            System.out.println("\nPrint Animals\n");
-        } else {
-            System.out.println("\nPrint Adjectives\n");
-            WordLists.print(net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE);
-            System.out.println("\nPrint Adjectives\n");
-        }
+        System.out.println("\nPrint Adjectives\n");
+        WordLists.print(net.noisynarwhal.sophocles.Main.ADJECTIVES_RESOURCE);
+        System.out.println("\nPrint Adjectives\n");
+
     }
 
 }
