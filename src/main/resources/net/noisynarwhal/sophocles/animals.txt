@@ -97,6 +97,7 @@ ammosaurus
 amoeba
 amphibian
 amphicoelias
+amphioctopus
 amphipod
 amur
 anaconda
@@ -165,6 +166,10 @@ archelon
 archerfish
 ardennais
 argentinosaurus
+argo
+argonaut
+argonauta
+argonautoidea
 argus
 armadillo
 armorhead
@@ -527,6 +532,7 @@ candiru
 candlefish
 canebrake
 caninae
+canis
 cantil
 canvasback
 caparari
@@ -643,6 +649,7 @@ cichlid
 cinclodes
 cinta
 cirrina
+cirroctopodidae
 cisco
 cisticola
 citheronia
@@ -921,6 +928,7 @@ eland
 elaphrosaurus
 elapid
 elasmobranch
+eledone
 elepaio
 elephant
 eleuth
@@ -1478,6 +1486,7 @@ kangaroo
 kangayam
 kankrej
 kanyu
+kapal
 kappa
 karakachan
 kathiawadi
@@ -1697,6 +1706,7 @@ luing
 lumpfish
 lumpsucker
 lungfish
+lupus
 lusitano
 lusitanosaurus
 lusotitan
@@ -1801,6 +1811,7 @@ meerkat
 meerkitten
 megachiroptera
 megaleledoni
+megaleledonidae
 megalodon
 megalosaurus
 megapode
@@ -2051,6 +2062,7 @@ opaleye
 opelu
 openbill
 opisthocomus
+opisthoteuthis
 opossum
 orangequit
 orangutan
@@ -2307,6 +2319,7 @@ prion
 procompsognathus
 pronghorn
 proscopiidae
+proteroctopus
 protoavis
 protoceratops
 protostega
